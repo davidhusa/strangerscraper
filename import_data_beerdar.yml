@@ -1,0 +1,115 @@
+---
+5 Point Cafe:
+  location:
+    name: 5 Point Cafe
+    address: unknown
+    version: 1
+    happy_hours:
+      name: Evening Happy Hour
+      days: MTWtF
+      start_time: 4pm
+      end_time: 6pm
+      bargains:
+        deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+    happy_hours:
+      name: Morning Happy Hour
+      days: MTWtF
+      start_time: 6am
+      end_time: 9am
+      bargains:
+        deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+5 Spot:
+  location:
+    name: 5 Spot
+    address: unknown
+    version: 1
+    happy_hours:
+      name: Evening Happy Hour
+      days: MTWtF
+      start_time: 3pm
+      end_time: 6pm
+      bargains:
+        deal: $3 drink specials and $4-$5 food specials
+    happy_hours:
+      name: Late Night Happy Hour
+      days: MTWtF
+      start_time: 10pm
+      end_time: 12am
+      bargains:
+        deal: $3 drink specials and $4-$5 food specials
+9 Lb Hammer:
+  location:
+    name: 9 Lb Hammer
+    address: unknown
+    version: 1
+    happy_hours:
+      days: MTWtF
+      start_time: 11am
+      end_time: 7pm
+      bargains:
+        deal: $1 off draft beer
+Annapurna Cafe:
+  location:
+    name: Annapurna Cafe
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm '
+      start_time: 
+      end_time: 
+      bargains:
+        deal: $1 off beer and wine by the glass, $2 off cocktails, and $3.99 appetizers
+Athenian Inn:
+  location:
+    name: Athenian Inn
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Sat 4-7:30 pm '
+      start_time: 
+      end_time: 
+      bargains:
+        deal: $4 beer, $3.25 wells, $1.25 oysters
+Auto Battery:
+  location:
+    name: Auto Battery
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm; Mon-Thu, Sun 11 pm-1 am '
+      start_time: 
+      end_time: 
+      bargains:
+        deal: $2 PBR, $3.50 drafts and wells
+Ba Bar:
+  location:
+    name: Ba Bar
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm '
+      start_time: 
+      end_time: 
+      bargains:
+        deal: $1 off all drafts and wine, $6 specialty drinks, $4-$8 food menu, daily
+          food specials, $5 drink specials all day on Sunday/Monday
+
+Big Mario's New York Style Pizza:
+  location:
+    name: Big Mario's New York Style Pizza
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-4 pm '
+      bargains:
+        deal: $1 beer
+F.X. McRory's Steak, Chop & Oyster House:
+  location:
+    name: F.X. McRory's Steak, Chop & Oyster House
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-5:45 pm '
+      bargains:
+        deal: $2.50 Miller Hi-Life Pints, $4.50 wells, $4.50 drafts, $4.50 house wine,
+          $4.50 select cocktails, $3.50-$4.95 food specials

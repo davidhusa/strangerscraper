@@ -1,0 +1,555 @@
+5 Point Cafe:
+  name: 5 Point Cafe
+  address: 415 Cedar Street, Seattle, WA 98121, USA
+  longitude: -122.347253
+  latitude: 47.6181399
+  version: 1
+  record_number: 
+5 Spot:
+  name: 5 Spot
+  address: 1502 Queen Anne Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3569161
+  latitude: 47.63243980000001
+  version: 1
+  record_number: 
+9 Lb Hammer:
+  name: 9 Lb Hammer
+  address: 6009 Airport Way South, Seattle, WA 98108, USA
+  longitude: -122.3167123
+  latitude: 47.5490268
+  version: 1
+  record_number: 
+Annapurna Cafe:
+  name: Annapurna Cafe
+  address: 1833 Broadway, Seattle, WA 98122, USA
+  longitude: -122.3210219
+  latitude: 47.6185633
+  version: 1
+  record_number: 
+ART Restaurant and Lounge:
+  name: ART Restaurant and Lounge
+  address: 99 Union Street, Seattle, WA 98101, USA
+  longitude: -122.339156
+  latitude: 47.607377
+  version: 1
+  record_number: 
+Athenian Inn:
+  name: Athenian Inn
+  address: 1517 Pike Place, Pike Place Market, Seattle, WA 98101, USA
+  longitude: -122.3404629
+  latitude: 47.6087715
+  version: 1
+  record_number: 
+Ba Bar:
+  name: Ba Bar
+  address: 550 12th Avenue, Seattle University, Seattle, WA 98122, USA
+  longitude: -122.3166447
+  latitude: 47.60691449999999
+  version: 1
+  record_number: 
+Ballard Loft:
+  name: Ballard Loft
+  address: 5105 Ballard Avenue Northwest, Seattle, WA 98107, USA
+  longitude: -122.3811109
+  latitude: 47.6645263
+  version: 1
+  record_number: 
+The Bar at Pan Pacific Hotel:
+  name: The Bar at Pan Pacific Hotel
+  address: 2125 Terry Avenue, 2200, Seattle, WA 98121, USA
+  longitude: -122.3371739
+  latitude: 47.6182476
+  version: 1
+  record_number: 
+Barça:
+  name: Barça
+  address: 1510 11th Avenue, Seattle, WA 98122, USA
+  longitude: -122.3180043
+  latitude: 47.6144612
+  version: 1
+  record_number: 
+Belltown Pizza:
+  name: Belltown Pizza
+  address: 2128 Queen Anne Avenue North, Seattle, WA 98109, USA
+  longitude: -122.356537
+  latitude: 47.6381472
+  version: 1
+  record_number: 
+Beth's Cafe:
+  name: Beth's Cafe
+  address: 7311 Aurora Avenue North, Seattle, WA 98103, USA
+  longitude: -122.3446262
+  latitude: 47.68209419999999
+  version: 1
+  record_number: 
+Big Mario's New York Style Pizza:
+  name: Big Mario's New York Style Pizza
+  address: 1009 East Pike Street, Seattle, WA 98122, USA
+  longitude: -122.3184778
+  latitude: 47.6139866
+  version: 1
+  record_number: 
+Big Time Brewery & Alehouse:
+  name: Big Time Brewery & Alehouse
+  address: 4133 University Way Northeast, Seattle, WA 98105, USA
+  longitude: -122.313216
+  latitude: 47.657576
+  version: 1
+  record_number: 
+Black Coffee Co-op:
+  name: Black Coffee Co-op
+  address: 501 East Pine Street, Seattle, WA 98122, USA
+  longitude: -122.3252524
+  latitude: 47.6150785
+  version: 1
+  record_number: 
+Can Can:
+  name: Can Can
+  address: ! '93 Pike Street #307, Pike Place Market, Seattle, WA 98101, USA'
+  longitude: -122.3402147
+  latitude: 47.6085795
+  version: 1
+  record_number: 
+Captain Blacks:
+  name: Captain Blacks
+  address: 129 Belmont Avenue East, Seattle, WA 98122, USA
+  longitude: -122.3240012
+  latitude: 47.6188556
+  version: 1
+  record_number: 
+Central Cinema:
+  name: Central Cinema
+  address: 1411 21st Avenue, Seattle, WA 98122, USA
+  longitude: -122.3051012
+  latitude: 47.6132846
+  version: 1
+  record_number: 
+Century Ballroom:
+  name: Century Ballroom
+  address: 915 2nd Avenue, Seattle, WA 98174, USA
+  longitude: -122.3351759
+  latitude: 47.6048899
+  version: 1
+  record_number: 
+Chungee's Drink 'n Eat:
+  name: Chungee's Drink 'n Eat
+  address: 1830 12th Avenue, Seattle, WA 98122, USA
+  longitude: -122.316748
+  latitude: 47.61866140000001
+  version: 1
+  record_number: 
+Cicchetti:
+  name: Cicchetti
+  address: 121 East Boston Street, Seattle, WA 98102, USA
+  longitude: -122.3260588
+  latitude: 47.6381534
+  version: 1
+  record_number: 
+Clever Dunne's Irish House:
+  name: Clever Dunne's Irish House
+  address: 1501 East Olive Way, Seattle, WA 98122, USA
+  longitude: -122.3259897
+  latitude: 47.61781939999999
+  version: 1
+  record_number: 
+Cooper's Alehouse:
+  name: Cooper's Alehouse
+  address: 8065 Lake City Way Northeast, Seattle, WA 98115, USA
+  longitude: -122.3115615
+  latitude: 47.6881151
+  version: 1
+  record_number: 
+Crossroads Bar & Grill:
+  name: Crossroads Bar & Grill
+  address: 15600 Northeast 8th Street, Crossroads Bellevue, Bellevue, WA 98008, USA
+  longitude: -122.1314793
+  latitude: 47.6173462
+  version: 1
+  record_number: 
+Cyclops:
+  name: Cyclops
+  address: 2421 1st Avenue, Seattle, WA 98121, USA
+  longitude: -122.3487308
+  latitude: 47.6145011
+  version: 1
+  record_number: 
+Dilettante Cafe:
+  name: Dilettante Cafe
+  address: 1400 6th Avenue, Seattle, WA 98101, USA
+  longitude: -122.333451
+  latitude: 47.610871
+  version: 1
+  record_number: 
+Dilettante Mocha Cafe:
+  name: Dilettante Mocha Cafe
+  address: 538 Broadway East, Seattle, WA 98102, USA
+  longitude: -122.3209036
+  latitude: 47.6239088
+  version: 1
+  record_number: 
+Dragonfish Asian Cafe:
+  name: Dragonfish Asian Cafe
+  address: 722 Pine Street, Seattle, WA 98101, USA
+  longitude: -122.3332806
+  latitude: 47.6130801
+  version: 1
+  record_number: 
+Dubliner:
+  name: Dubliner
+  address: 3517 Fremont Avenue North, Seattle, WA 98103, USA
+  longitude: -122.350076
+  latitude: 47.6511821
+  version: 1
+  record_number: 
+Duck Island Ale House:
+  name: Duck Island Ale House
+  address: 7317 Aurora Avenue North, Seattle, WA 98103, USA
+  longitude: -122.344844
+  latitude: 47.6822609
+  version: 1
+  record_number: 
+Eastlake Bar and Grill:
+  name: Eastlake Bar and Grill
+  address: 2947 Eastlake Avenue East, Seattle, WA 98102, USA
+  longitude: -122.3238733
+  latitude: 47.6485922
+  version: 1
+  record_number: 
+El Chupacabra:
+  name: El Chupacabra
+  address: 6711 Greenwood Avenue North, Seattle, WA 98103, USA
+  longitude: -122.355682
+  latitude: 47.6781409
+  version: 1
+  record_number: 
+Elephant & Castle:
+  name: Elephant & Castle
+  address: 1415 5th Avenue, Seattle, WA 98101, USA
+  longitude: -122.3353811
+  latitude: 47.6100497
+  version: 1
+  record_number: 
+Endolyne Joe's:
+  name: Endolyne Joe's
+  address: 9261 45th Avenue Southwest, Seattle, WA 98136, USA
+  longitude: -122.3902224
+  latitude: 47.5206741
+  version: 1
+  record_number: 
+F.X. McRory's Steak, Chop & Oyster House:
+  name: F.X. McRory's Steak, Chop & Oyster House
+  address: 419 Occidental Avenue South, Seattle, WA 98104, USA
+  longitude: -122.3331466
+  latitude: 47.5984767
+  version: 1
+  record_number: 
+Floyd's:
+  name: Floyd's
+  address: 521 1st Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3555259
+  latitude: 47.6239644
+  version: 1
+  record_number: 
+George & Dragon Pub:
+  name: George & Dragon Pub
+  address: 206 North 36th Street, Seattle, WA 98103, USA
+  longitude: -122.3561784
+  latitude: 47.6526741
+  version: 1
+  record_number: 
+Georgetown Liquor Company:
+  name: Georgetown Liquor Company
+  address: 5501 Airport Way South, Seattle, WA 98108, USA
+  longitude: -122.3212361
+  latitude: 47.5532808
+  version: 1
+  record_number: 
+Greenlake Bar & Grill:
+  name: Greenlake Bar & Grill
+  address: 7200 East Green Lake Drive North, Seattle, WA 98115, USA
+  longitude: -122.3257156
+  latitude: 47.6804312
+  version: 1
+  record_number: 
+Grim's:
+  name: Grim's
+  address: 1512 11th Avenue, Seattle, WA 98122, USA
+  longitude: -122.318112
+  latitude: 47.61467709999999
+  version: 1
+  record_number: 
+Hi-Life:
+  name: Hi-Life
+  address: 5425 Russell Avenue Northwest, Seattle, WA 98107, USA
+  longitude: -122.3830484
+  latitude: 47.6684431
+  version: 1
+  record_number: 
+Hopvine Pub:
+  name: Hopvine Pub
+  address: 507 15th Avenue East, Seattle, WA 98112, USA
+  longitude: -122.3127704
+  latitude: 47.6233848
+  version: 1
+  record_number: 
+Il Bistro:
+  name: Il Bistro
+  address: 93 Pike Street, Pike Place Market, Seattle, WA 98101, USA
+  longitude: -122.3402147
+  latitude: 47.6085795
+  version: 1
+  record_number: 
+Jolly Roger Taproom:
+  name: Jolly Roger Taproom
+  address: 1111 Northwest Ballard Way, Seattle, WA 98107, USA
+  longitude: -122.3717414
+  latitude: 47.66275539999999
+  version: 1
+  record_number: 
+Lake Forest Bar & Grill:
+  name: Lake Forest Bar & Grill
+  address: 17535 Ballinger Way Northeast, Lake Forest Park Town Centre, Lake Forest
+    Park, WA 98155, USA
+  longitude: -122.2778719
+  latitude: 47.7544578
+  version: 1
+  record_number: 
+Lecosho:
+  name: Lecosho
+  address: 89 University Street, Seattle, WA 98101, USA
+  longitude: -122.3379035
+  latitude: 47.6069366
+  version: 1
+  record_number: 
+The Lookout:
+  name: The Lookout
+  address: 757 Bellevue Avenue East, Seattle, WA 98102, USA
+  longitude: -122.3267537
+  latitude: 47.626721
+  version: 1
+  record_number: 
+Lost Lake Cafe & Lounge:
+  name: Lost Lake Cafe & Lounge
+  address: 1200 East Pike Street, Seattle, WA 98122, USA
+  longitude: -122.316514
+  latitude: 47.6143069
+  version: 1
+  record_number: 
+The Lost Pelican:
+  name: The Lost Pelican
+  address: 2400 1st Avenue, Seattle, WA 98121, USA
+  longitude: -122.3478369
+  latitude: 47.6143274
+  version: 1
+  record_number: 
+Lunchbox Laboratory:
+  name: Lunchbox Laboratory
+  address: 989 112th Avenue Northeast, Bellevue, WA 98004, USA
+  longitude: -122.191602
+  latitude: 47.618654
+  version: 1
+  record_number: 
+The Market Arms:
+  name: The Market Arms
+  address: 2401 Northwest Market Street, Seattle, WA 98107, USA
+  longitude: -122.387939
+  latitude: 47.668272
+  version: 1
+  record_number: 
+Mecca:
+  name: Mecca
+  address: 526 Queen Anne Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3565847
+  latitude: 47.62407409999999
+  version: 1
+  record_number: 
+Monkey Pub:
+  name: Monkey Pub
+  address: 5305 Roosevelt Way Northeast, Seattle, WA 98105, USA
+  longitude: -122.3174822
+  latitude: 47.6673315
+  version: 1
+  record_number: 
+Monsoon:
+  name: Monsoon
+  address: 615 19th Avenue East, Seattle, WA 98112, USA
+  longitude: -122.307508
+  latitude: 47.6248243
+  version: 1
+  record_number: 
+Museum of History and Industry:
+  name: Museum of History and Industry
+  address: 860 Terry Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3367439
+  latitude: 47.6276794
+  version: 1
+  record_number: 
+The Nabob:
+  name: The Nabob
+  address: 819 5th Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3476154
+  latitude: 47.6269662
+  version: 1
+  record_number: 
+Noc Noc:
+  name: Noc Noc
+  address: 1516 2nd Avenue, Seattle, WA 98101, USA
+  longitude: -122.339018
+  latitude: 47.60992299999999
+  version: 1
+  record_number: 
+Norm's Eatery & Alehouse:
+  name: Norm's Eatery & Alehouse
+  address: 460 North 36th Street, Seattle, WA 98103, USA
+  longitude: -122.3528517
+  latitude: 47.6519882
+  version: 1
+  record_number: 
+Ohana Restaurant and Sushi Bar:
+  name: Ohana Restaurant and Sushi Bar
+  address: 2207 1st Avenue, Seattle, WA 98121, USA
+  longitude: -122.3455457
+  latitude: 47.6127824
+  version: 1
+  record_number: 
+Old Pequliar:
+  name: Old Pequliar
+  address: 1722 Northwest Market Street, Seattle, WA 98107, USA
+  longitude: -122.380035
+  latitude: 47.668938
+  version: 1
+  record_number: 
+Pagliacci Pizza:
+  name: Pagliacci Pizza
+  address: McMahon Hall (MCM), University of Washington, Seattle, WA 98105, USA
+  longitude: -122.3035998
+  latitude: 47.6581757
+  version: 1
+  record_number: 
+Pan Pacific Hotel:
+  name: Pan Pacific Hotel
+  address: 2125 Terry Avenue, 2200, Seattle, WA 98121, USA
+  longitude: -122.3371739
+  latitude: 47.6182476
+  version: 1
+  record_number: 
+Paragon:
+  name: Paragon
+  address: 2125 Queen Anne Avenue North, Seattle, WA 98109, USA
+  longitude: -122.3570751
+  latitude: 47.6379431
+  version: 1
+  record_number: 
+The Pine Box:
+  name: The Pine Box
+  address: 1600 Melrose Avenue, Seattle, WA 98122, USA
+  longitude: -122.327869
+  latitude: 47.615239
+  version: 1
+  record_number: 
+---
+Pintxo:
+  name: Pintxo
+  address: 2207 2nd Avenue, Seattle, WA 98121, USA
+  longitude: -122.3443322
+  latitude: 47.6132186
+  version: 1
+  record_number: 
+Pizzeria 22:
+  name: Pizzeria 22
+  address: 4213 Southwest College Street, Seattle, WA 98116, USA
+  longitude: -122.3856655
+  latitude: 47.58298509999999
+  version: 1
+  record_number: 
+Pony:
+  name: Pony
+  address: 1221 East Madison Street, Seattle, WA 98122, USA
+  longitude: -122.3157932
+  latitude: 47.6131185
+  version: 1
+  record_number: 
+Pyramid Alehouse:
+  name: Pyramid Alehouse
+  address: 1201 1st Avenue South, Seattle, WA 98134, USA
+  longitude: -122.3346949
+  latitude: 47.5920122
+  version: 1
+  record_number: 
+Pyramid Brewery:
+  name: Pyramid Brewery
+  address: 1201 1st Avenue South, Seattle, WA 98134, USA
+  longitude: -122.3346949
+  latitude: 47.5920122
+  version: 1
+  record_number: 
+Rob Roy:
+  name: Rob Roy
+  address: 2332 2nd Avenue, Seattle, WA 98121, USA
+  longitude: -122.3468043
+  latitude: 47.6147359
+  version: 1
+  record_number: 
+Rocco's:
+  name: Rocco's
+  address: 2228 2nd Avenue, Seattle, WA 98121, USA
+  longitude: -122.3452279
+  latitude: 47.6139217
+  version: 1
+  record_number: 
+Rock Box:
+  name: Rock Box
+  address: 1603 Nagle Place, Seattle, WA 98122, USA
+  longitude: -122.3201594
+  latitude: 47.6153456
+  version: 1
+  record_number: 
+Row House Cafe:
+  name: Row House Cafe
+  address: 1170 Republican Street, Seattle, WA 98109, USA
+  longitude: -122.3334759
+  latitude: 47.6231356
+  version: 1
+  record_number: 
+Saint John's Bar and Eatery:
+  name: Saint John's Bar and Eatery
+  address: 719 East Pike Street, Seattle, WA 98122, USA
+  longitude: -122.3225446
+  latitude: 47.6140221
+  version: 1
+  record_number: 
+Serafina:
+  name: Serafina
+  address: 2043 Eastlake Avenue East, Seattle, WA 98102, USA
+  longitude: -122.3260666
+  latitude: 47.6380455
+  version: 1
+  record_number: 
+Solo:
+  name: Solo
+  address: 200 Roy Street, Seattle, WA 98109, USA
+  longitude: -122.352008
+  latitude: 47.62556
+  version: 1
+  record_number: 
+Speckled & Drake:
+  name: Speckled & Drake
+  address: 1355 East Olive Way, Seattle, WA 98122, USA
+  longitude: -122.3273765
+  latitude: 47.617023
+  version: 1
+  record_number: 
+Stellar Pizza:
+  name: Stellar Pizza
+  address: 5513 Airport Way South, Seattle, WA 98108, USA
+  longitude: -122.3209756
+  latitude: 47.5532085
+  version: 1
+  record_number: 
+Sun Liquor Lounge:
+  name: Sun Liquor Lounge
+  address: 607 Summit Avenue East, Seattle, WA 98102, USA
+  longitude: -122.325461
+  latitude: 47.6245784
+  version: 1
+  record_number: 

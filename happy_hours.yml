@@ -1,0 +1,683 @@
+5 Point Cafe_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 6am
+  end_time: 9am
+  version: 1
+  location: 5 Point Cafe
+  record_number: 
+5 Point Cafe_hh2:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: 5 Point Cafe
+  record_number: 
+5 Spot_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 3pm
+  end_time: 6pm
+  version: 1
+  location: 5 Spot
+  record_number: 
+5 Spot_hh2:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 10pm
+  end_time: 12am
+  version: 1
+  location: 5 Spot
+  record_number: 
+9 Lb Hammer_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 11am
+  end_time: 7pm
+  version: 1
+  location: 9 Lb Hammer
+  record_number: 
+Annapurna Cafe_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 3pm
+  end_time: 6pm
+  version: 1
+  location: Annapurna Cafe
+  record_number: 
+ART Restaurant and Lounge_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 5pm
+  end_time: 7pm
+  version: 1
+  location: ART Restaurant and Lounge
+  record_number:
+ART Restaurant and Lounge_hh2:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 9pm
+  end_time: 11pm
+  version: 1
+  location: ART Restaurant and Lounge
+  record_number: 
+Athenian Inn_hh:
+  name: Happy Hour
+  days: MTWHFS
+  start_time: 4pm
+  end_time: 9pm
+  version: 1
+  location: Athenian Inn
+  record_number: 
+Ba Bar_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 3pm
+  end_time: 7pm
+  version: 1
+  location: Ba Bar
+  record_number: 
+Ballard Loft_hh:
+  name: Happy Hour
+  days: ! 'Fri 4-7 pm ($1 drafts and beer, $4 wells and house wine, $6 food specials);
+    Tue-Fri 10 pm-midnight ($5.50 select appetizers); Mon, Sun 4 pm-midnight '
+  start_time: ! 'Fri 4-7 pm ($1 drafts and beer, $4 wells and house wine, $6 food
+    specials); Tue-Fri 10 pm-midnight ($5.50 select appetizers); Mon, Sun 4 pm-midnight '
+  end_time: ! 'Fri 4-7 pm ($1 drafts and beer, $4 wells and house wine, $6 food specials);
+    Tue-Fri 10 pm-midnight ($5.50 select appetizers); Mon, Sun 4 pm-midnight '
+  version: 1
+  location: Ballard Loft
+  record_number: 
+The Bar at Pan Pacific Hotel_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: The Bar at Pan Pacific Hotel
+  record_number: 
+Barça_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 5-7 pm '
+  end_time: ! 'Daily 5-7 pm '
+  version: 1
+  location: Barça
+  record_number: 
+Belltown Pizza_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Belltown Pizza
+  record_number: 
+Beth's Cafe_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Beth's Cafe
+  record_number: 
+Big Mario's New York Style Pizza_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-4 pm '
+  end_time: ! 'Daily 3-4 pm '
+  version: 1
+  location: Big Mario's New York Style Pizza
+  record_number: 
+Big Time Brewery & Alehouse_hh:
+  name: Happy Hour
+  days: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+  start_time: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+  end_time: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+  version: 1
+  location: Big Time Brewery & Alehouse
+  record_number: 
+Black Coffee Co-op_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 6-9 pm '
+  end_time: ! 'Daily 6-9 pm '
+  version: 1
+  location: Black Coffee Co-op
+  record_number: 
+Can Can_hh:
+  name: Happy Hour
+  days: ! 'Mon-Thu, Sun 6-11 pm '
+  start_time: ! 'Mon-Thu, Sun 6-11 pm '
+  end_time: ! 'Mon-Thu, Sun 6-11 pm '
+  version: 1
+  location: Can Can
+  record_number: 
+Captain Blacks_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 4-6 pm '
+  end_time: ! 'Daily 4-6 pm '
+  version: 1
+  location: Captain Blacks
+  record_number: 
+Central Cinema_hh:
+  name: Happy Hour
+  days: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+    food menu); Thu 5:30-7 pm '
+  start_time: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+    food menu); Thu 5:30-7 pm '
+  end_time: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+    food menu); Thu 5:30-7 pm '
+  version: 1
+  location: Central Cinema
+  record_number: 
+Century Ballroom_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Century Ballroom
+  record_number: 
+Chungee's Drink 'n Eat_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 4-7 pm '
+  end_time: ! 'Daily 4-7 pm '
+  version: 1
+  location: Chungee's Drink 'n Eat
+  record_number: 
+Cicchetti_hh:
+  name: Happy Hour
+  days: TWHF
+  start_time: ! 'Tue-Fri 5-6:30 pm '
+  end_time: ! 'Tue-Fri 5-6:30 pm '
+  version: 1
+  location: Cicchetti
+  record_number: 
+Clever Dunne's Irish House_hh:
+  name: Happy Hour
+  days: ! 'Mon-Fri 4-7 pm; Sat noon-6 pm; Sun 2 pm-2 am '
+  start_time: ! 'Mon-Fri 4-7 pm; Sat noon-6 pm; Sun 2 pm-2 am '
+  end_time: ! 'Mon-Fri 4-7 pm; Sat noon-6 pm; Sun 2 pm-2 am '
+  version: 1
+  location: Clever Dunne's Irish House
+  record_number: 
+Cooper's Alehouse_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 2-6 pm '
+  end_time: ! 'Mon-Fri 2-6 pm '
+  version: 1
+  location: Cooper's Alehouse
+  record_number: 
+Crossroads Bar & Grill_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light,
+    $5 cocktails, and $2-$5 food menu), 9 pm-2 am '
+  end_time: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light, $5
+    cocktails, and $2-$5 food menu), 9 pm-2 am '
+  version: 1
+  location: Crossroads Bar & Grill
+  record_number: 
+Cyclops_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 3-6 pm '
+  end_time: ! 'Mon-Fri 3-6 pm '
+  version: 1
+  location: Cyclops
+  record_number: 
+Dilettante Cafe_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Dilettante Cafe
+  record_number: 
+Dilettante Mocha Cafe_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 5-7 pm '
+  end_time: ! 'Daily 5-7 pm '
+  version: 1
+  location: Dilettante Mocha Cafe
+  record_number: 
+Dragonfish Asian Cafe_hh:
+  name: Happy Hour
+  days: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6 pm,
+    9 pm-1 am '
+  start_time: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6
+    pm, 9 pm-1 am '
+  end_time: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6
+    pm, 9 pm-1 am '
+  version: 1
+  location: Dragonfish Asian Cafe
+  record_number: 
+Dubliner_hh:
+  name: Happy Hour
+  days: ! 'Thu 3-2 pm ($5 Jameson); Mon-Sat 3-7 pm ($2PBR $4 Domestic Drafts $5 Imports);
+    Sun 1 pm-2 am '
+  start_time: ! 'Thu 3-2 pm ($5 Jameson); Mon-Sat 3-7 pm ($2PBR $4 Domestic Drafts
+    $5 Imports); Sun 1 pm-2 am '
+  end_time: ! 'Thu 3-2 pm ($5 Jameson); Mon-Sat 3-7 pm ($2PBR $4 Domestic Drafts $5
+    Imports); Sun 1 pm-2 am '
+  version: 1
+  location: Dubliner
+  record_number: 
+Duck Island Ale House_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-7 pm '
+  end_time: ! 'Daily 3-7 pm '
+  version: 1
+  location: Duck Island Ale House
+  record_number: 
+Eastlake Bar and Grill_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm, 9 pm-midnight '
+  end_time: ! 'Daily 3-6 pm, 9 pm-midnight '
+  version: 1
+  location: Eastlake Bar and Grill
+  record_number: 
+El Chupacabra_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 4-6 pm, 10 pm-midnight '
+  end_time: ! 'Daily 4-6 pm, 10 pm-midnight '
+  version: 1
+  location: El Chupacabra
+  record_number: 
+Elephant & Castle_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm, 10 pm-midnight '
+  end_time: ! 'Daily 3-6 pm, 10 pm-midnight '
+  version: 1
+  location: Elephant & Castle
+  record_number: 
+Endolyne Joe's_hh:
+  name: Happy Hour
+  days: ! 'Tue 3-10 pm; Mon, Wed-Sun 3-6 pm, 9-10 pm '
+  start_time: ! 'Tue 3-10 pm; Mon, Wed-Sun 3-6 pm, 9-10 pm '
+  end_time: ! 'Tue 3-10 pm; Mon, Wed-Sun 3-6 pm, 9-10 pm '
+  version: 1
+  location: Endolyne Joe's
+  record_number: 
+F.X. McRory's Steak, Chop & Oyster House_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 3-5:45 pm '
+  end_time: ! 'Mon-Fri 3-5:45 pm '
+  version: 1
+  location: F.X. McRory's Steak, Chop & Oyster House
+  record_number: 
+Floyd's_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm '
+  end_time: ! 'Daily 3-6 pm '
+  version: 1
+  location: Floyd's
+  record_number: 
+George & Dragon Pub_hh:
+  name: Happy Hour
+  days: ! 'Mon-Fri 3-7 pm ($1 off pints and wells. Food specials); Sun 8 pm-2 am '
+  start_time: ! 'Mon-Fri 3-7 pm ($1 off pints and wells. Food specials); Sun 8 pm-2
+    am '
+  end_time: ! 'Mon-Fri 3-7 pm ($1 off pints and wells. Food specials); Sun 8 pm-2
+    am '
+  version: 1
+  location: George & Dragon Pub
+  record_number: 
+Georgetown Liquor Company_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 4-7 pm '
+  end_time: ! 'Mon-Fri 4-7 pm '
+  version: 1
+  location: Georgetown Liquor Company
+  record_number: 
+Greenlake Bar & Grill_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 9 pm-midnight, 3-6 pm '
+  end_time: ! 'Daily 9 pm-midnight, 3-6 pm '
+  version: 1
+  location: Greenlake Bar & Grill
+  record_number: 
+Grim's_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm '
+  end_time: ! 'Daily 3-6 pm '
+  version: 1
+  location: Grim's
+  record_number: 
+Hi-Life_hh:
+  name: Happy Hour
+  days: ! 'Tue 5-10 pm; Mon, Wed-Sun 3-6:30 pm, 10-11 pm '
+  start_time: ! 'Tue 5-10 pm; Mon, Wed-Sun 3-6:30 pm, 10-11 pm '
+  end_time: ! 'Tue 5-10 pm; Mon, Wed-Sun 3-6:30 pm, 10-11 pm '
+  version: 1
+  location: Hi-Life
+  record_number: 
+Hopvine Pub_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 5-7 pm '
+  end_time: ! 'Daily 5-7 pm '
+  version: 1
+  location: Hopvine Pub
+  record_number: 
+Il Bistro_hh:
+  name: Happy Hour
+  days: ! 'Sat 11 pm-1 am; Daily 5-6:30 pm; Mon-Thu, Sun 10 pm-midnight '
+  start_time: ! 'Sat 11 pm-1 am; Daily 5-6:30 pm; Mon-Thu, Sun 10 pm-midnight '
+  end_time: ! 'Sat 11 pm-1 am; Daily 5-6:30 pm; Mon-Thu, Sun 10 pm-midnight '
+  version: 1
+  location: Il Bistro
+  record_number: 
+Jolly Roger Taproom_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 3pm
+  end_time: 6pm
+  version: 1
+  location: Jolly Roger Taproom
+  record_number: 
+Lake Forest Bar & Grill_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Lake Forest Bar & Grill
+  record_number: 
+Lecosho_hh:
+  name: Happy Hour
+  days: ! 'Sat 11 pm-1 am; Daily 3-6 pm; Mon-Thu, Sun 10 pm-1 am '
+  start_time: ! 'Sat 11 pm-1 am; Daily 3-6 pm; Mon-Thu, Sun 10 pm-1 am '
+  end_time: ! 'Sat 11 pm-1 am; Daily 3-6 pm; Mon-Thu, Sun 10 pm-1 am '
+  version: 1
+  location: Lecosho
+  record_number: 
+The Lookout_hh:
+  name: Happy Hour
+  days: ! 'Mon-Fri 4-7 pm ($3.50 drafts, $4 house wines, $4 wells, $5 select appetizers);
+    Sat-Sun noon-4 pm '
+  start_time: ! 'Mon-Fri 4-7 pm ($3.50 drafts, $4 house wines, $4 wells, $5 select
+    appetizers); Sat-Sun noon-4 pm '
+  end_time: ! 'Mon-Fri 4-7 pm ($3.50 drafts, $4 house wines, $4 wells, $5 select appetizers);
+    Sat-Sun noon-4 pm '
+  version: 1
+  location: The Lookout
+  record_number: 
+Lost Lake Cafe & Lounge_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 4-6 pm '
+  end_time: ! 'Mon-Fri 4-6 pm '
+  version: 1
+  location: Lost Lake Cafe & Lounge
+  record_number: 
+The Lost Pelican_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-7 pm '
+  end_time: ! 'Daily 3-7 pm '
+  version: 1
+  location: The Lost Pelican
+  record_number: 
+Lunchbox Laboratory_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm, 9 pm-midnight '
+  end_time: ! 'Daily 3-6 pm, 9 pm-midnight '
+  version: 1
+  location: Lunchbox Laboratory
+  record_number: 
+The Market Arms_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm '
+  end_time: ! 'Daily 3-6 pm '
+  version: 1
+  location: The Market Arms
+  record_number: 
+Mecca_hh:
+  name: Happy Hour
+  days: ! 'Mon-Fri 3-7 pm ($1 off drafts, $1 off wells, $1.50 miller drafts); Sat
+    10 pm-midnight '
+  start_time: ! 'Mon-Fri 3-7 pm ($1 off drafts, $1 off wells, $1.50 miller drafts);
+    Sat 10 pm-midnight '
+  end_time: ! 'Mon-Fri 3-7 pm ($1 off drafts, $1 off wells, $1.50 miller drafts);
+    Sat 10 pm-midnight '
+  version: 1
+  location: Mecca
+  record_number: 
+Monkey Pub_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 5-9 pm '
+  end_time: ! 'Daily 5-9 pm '
+  version: 1
+  location: Monkey Pub
+  record_number: 
+Monsoon_hh:
+  name: Happy Hour
+  days: ! 'Mon-Thu 9-10 pm; Mon-Fri 3-5 pm; Fri 9-11 pm '
+  start_time: ! 'Mon-Thu 9-10 pm; Mon-Fri 3-5 pm; Fri 9-11 pm '
+  end_time: ! 'Mon-Thu 9-10 pm; Mon-Fri 3-5 pm; Fri 9-11 pm '
+  version: 1
+  location: Monsoon
+  record_number: 
+Museum of History and Industry_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Museum of History and Industry
+  record_number: 
+The Nabob_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 5-7 pm '
+  end_time: ! 'Mon-Fri 5-7 pm '
+  version: 1
+  location: The Nabob
+  record_number: 
+Noc Noc_hh:
+  name: Happy Hour
+  days: ! 'Thu-Sun 3-9 pm; Daily 5-9 pm '
+  start_time: ! 'Thu-Sun 3-9 pm; Daily 5-9 pm '
+  end_time: ! 'Thu-Sun 3-9 pm; Daily 5-9 pm '
+  version: 1
+  location: Noc Noc
+  record_number: 
+Norm's Eatery & Alehouse_hh:
+  name: Happy Hour
+  days: ! 'Fri-Sat 11 pm-1 am (Food &amp; Drink specials); Sun 10 am-2 pm ($4 bloody
+    marys &amp; mimosas); Daily 4-7 pm '
+  start_time: ! 'Fri-Sat 11 pm-1 am (Food &amp; Drink specials); Sun 10 am-2 pm ($4
+    bloody marys &amp; mimosas); Daily 4-7 pm '
+  end_time: ! 'Fri-Sat 11 pm-1 am (Food &amp; Drink specials); Sun 10 am-2 pm ($4
+    bloody marys &amp; mimosas); Daily 4-7 pm '
+  version: 1
+  location: Norm's Eatery & Alehouse
+  record_number: 
+Ohana Restaurant & Sushi Bar_hh:
+  name: Happy Hour
+  days: ! 'Mon-Tue 5-11:30 pm; Wed-Thu 5-7 pm; Fri 5-7 pm; Wed-Thu, Sun 9-11:30 pm '
+  start_time: ! 'Mon-Tue 5-11:30 pm; Wed-Thu 5-7 pm; Fri 5-7 pm; Wed-Thu, Sun 9-11:30
+    pm '
+  end_time: ! 'Mon-Tue 5-11:30 pm; Wed-Thu 5-7 pm; Fri 5-7 pm; Wed-Thu, Sun 9-11:30
+    pm '
+  version: 1
+  location: Ohana Restaurant & Sushi Bar
+  record_number: 
+Old Pequliar_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 4-7 pm, 10 pm-midnight '
+  end_time: ! 'Daily 4-7 pm, 10 pm-midnight '
+  version: 1
+  location: Old Pequliar
+  record_number: 
+Pagliacci Pizza_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Pagliacci Pizza
+  record_number: 
+Pan Pacific Hotel_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Pan Pacific Hotel
+  record_number: 
+Paragon_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 4-7 pm '
+  end_time: ! 'Mon-Fri 4-7 pm '
+  version: 1
+  location: Paragon
+  record_number: 
+The Pine Box_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 3-6 pm '
+  end_time: ! 'Daily 3-6 pm '
+  version: 1
+  location: The Pine Box
+  record_number: 
+Pintxo_hh:
+  name: Happy Hour
+  days: TWHFSU
+  start_time: ! 'Tue-Sun 5-6 pm '
+  end_time: ! 'Tue-Sun 5-6 pm '
+  version: 1
+  location: Pintxo
+  record_number: 
+Pizzeria 22_hh:
+  name: Happy Hour
+  days: MTWHF'
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: Pizzeria 22
+  record_number: 
+Pony_hh:
+  name: Happy Hour
+  days: ! 'Wed 5 pm-2 am; Mon-Tue, Thu 3-8 pm '
+  start_time: ! 'Wed 5 pm-2 am; Mon-Tue, Thu 3-8 pm '
+  end_time: ! 'Wed 5 pm-2 am; Mon-Tue, Thu 3-8 pm '
+  version: 1
+  location: Pony
+  record_number: 
+Pyramid Alehouse_hh:
+  name: Happy Hour
+  days: n/a
+  start_time: n/a
+  end_time: n/a
+  version: 1
+  location: Pyramid Alehouse
+  record_number: 
+Pyramid Brewery_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: ! 'Mon-Fri 3:30-6:30 pm, 9-11 pm '
+  end_time: ! 'Mon-Fri 3:30-6:30 pm, 9-11 pm '
+  version: 1
+  location: Pyramid Brewery
+  record_number: 
+Rob Roy_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 4-7 pm '
+  end_time: ! 'Daily 4-7 pm '
+  version: 1
+  location: Rob Roy
+  record_number: 
+Rocco's_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 2pm
+  end_time: 7pm
+  version: 1
+  location: Rocco's
+  record_number: 
+Rock Box_hh:
+  name: Happy Hour
+  days: ! 'Wed 4 pm-2 am; Mon-Tue, Thu-Sat 4-8 pm; Sun 4 pm-2 am '
+  start_time: ! 'Wed 4 pm-2 am; Mon-Tue, Thu-Sat 4-8 pm; Sun 4 pm-2 am '
+  end_time: ! 'Wed 4 pm-2 am; Mon-Tue, Thu-Sat 4-8 pm; Sun 4 pm-2 am '
+  version: 1
+  location: Rock Box
+  record_number: 
+Row House Cafe_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: Row House Cafe
+  record_number: 
+Saint John's Bar and Eatery_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: ! 'Daily 2-6 pm '
+  end_time: ! 'Daily 2-6 pm '
+  version: 1
+  location: Saint John's Bar and Eatery
+  record_number: 
+Serafina_hh:
+  name: Happy Hour
+  days: MTWHF
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: Serafina
+  record_number: 
+Solo_hh:
+  name: Happy Hour
+  days: ! 'Tue-Sat 5-7 pm; Mon, Sun 5 pm-1:30 am '
+  start_time: ! 'Tue-Sat 5-7 pm; Mon, Sun 5 pm-1:30 am '
+  end_time: ! 'Tue-Sat 5-7 pm; Mon, Sun 5 pm-1:30 am '
+  version: 1
+  location: Solo
+  record_number: 
+Speckled & Drake_hh:
+  name: Happy Hour
+  days: MTWHFSU
+  start_time: 5am
+  end_time: 8am
+  version: 1
+  location: Speckled & Drake
+  record_number: 
+Stellar Pizza_hh:
+  name: Happy Hour
+  days: TWHFSU
+  start_time: 3pm
+  end_time: 6pm
+  version: 1
+  location: Stellar Pizza
+  record_number: 
+Sun Liquor Lounge_hh:
+  name: Happy Hour
+  days: ! 'Sun 5 pm-2 am (Industry discounts); Daily 5-7 pm '
+  start_time: ! 'Sun 5 pm-2 am (Industry discounts); Daily 5-7 pm '
+  end_time: ! 'Sun 5 pm-2 am (Industry discounts); Daily 5-7 pm '
+  version: 1
+  location: Sun Liquor Lounge
+  record_number: 

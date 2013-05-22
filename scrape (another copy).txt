@@ -1,0 +1,226 @@
+---
+5 Point Cafe:
+  happy_hour:
+    name: 5 Point Cafe
+    deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+    days: ! 'Mon-Fri 6-9 am, 4-6 pm '
+    start_time: ! 'Mon-Fri 6-9 am, 4-6 pm '
+    end_time: ! 'Mon-Fri 6-9 am, 4-6 pm '
+5 Spot:
+  happy_hour:
+    name: 5 Spot
+    deal: $3 drink specials and $4-$5 food specials
+    days: ! 'Mon-Fri 3-6 pm, 10 pm-midnight '
+    start_time: ! 'Mon-Fri 3-6 pm, 10 pm-midnight '
+    end_time: ! 'Mon-Fri 3-6 pm, 10 pm-midnight '
+9 Lb Hammer:
+  happy_hour:
+    name: 9 Lb Hammer
+    deal: $1 off draft beer
+    days: ! 'Mon-Fri 11 am-7 pm '
+    start_time: ! 'Mon-Fri 11 am-7 pm '
+    end_time: ! 'Mon-Fri 11 am-7 pm '
+Annapurna Cafe:
+  happy_hour:
+    name: Annapurna Cafe
+    deal: $1 off beer and wine by the glass, $2 off cocktails, and $3.99 appetizers
+    days: ! 'Daily 3-6 pm '
+    start_time: ! 'Daily 3-6 pm '
+    end_time: ! 'Daily 3-6 pm '
+Athenian Inn:
+  happy_hour:
+    name: Athenian Inn
+    deal: $4 beer, $3.25 wells, $1.25 oysters
+    days: ! 'Mon-Sat 4-7:30 pm '
+    start_time: ! 'Mon-Sat 4-7:30 pm '
+    end_time: ! 'Mon-Sat 4-7:30 pm '
+Auto Battery:
+  happy_hour:
+    name: Auto Battery
+    deal: $2 PBR, $3.50 drafts and wells
+    days: ! 'Daily 3-7 pm; Mon-Thu, Sun 11 pm-1 am '
+    start_time: ! 'Daily 3-7 pm; Mon-Thu, Sun 11 pm-1 am '
+    end_time: ! 'Daily 3-7 pm; Mon-Thu, Sun 11 pm-1 am '
+Ba Bar:
+  happy_hour:
+    name: Ba Bar
+    deal: $1 off all drafts and wine, $6 specialty drinks, $4-$8 food menu, daily
+      food specials, $5 drink specials all day on Sunday/Monday
+    days: ! 'Daily 3-7 pm '
+    start_time: ! 'Daily 3-7 pm '
+    end_time: ! 'Daily 3-7 pm '
+Bainbridge Organic Distillers:
+  happy_hour:
+    name: Bainbridge Organic Distillers
+    deal: n/a
+    days: n/a
+    start_time: n/a
+    end_time: n/a
+Ballroom:
+  happy_hour:
+    name: Ballroom
+    deal: n/a
+    days: n/a
+    start_time: n/a
+    end_time: n/a
+Barça:
+  happy_hour:
+    name: Barça
+    deal: $4 wells, $1 off drafts
+    days: ! 'Daily 5-7 pm '
+    start_time: ! 'Daily 5-7 pm '
+    end_time: ! 'Daily 5-7 pm '
+Big Mario's New York Style Pizza:
+  happy_hour:
+    name: Big Mario's New York Style Pizza
+    deal: $1 beer
+    days: ! 'Daily 3-4 pm '
+    start_time: ! 'Daily 3-4 pm '
+    end_time: ! 'Daily 3-4 pm '
+Big Time Brewery & Alehouse:
+  happy_hour:
+    name: Big Time Brewery & Alehouse
+    deal: $3 food menu, $1 off pints
+    days: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+    start_time: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+    end_time: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+Bimbo's Cantina:
+  happy_hour:
+    name: Bimbo's Cantina
+    deal: $3.25 wells, $4.25 margaritas, $5 pitchers
+    days: ! 'Sat 4-8 pm; Mon, Sun noon-2 am '
+    start_time: ! 'Sat 4-8 pm; Mon, Sun noon-2 am '
+    end_time: ! 'Sat 4-8 pm; Mon, Sun noon-2 am '
+Blarney Stone:
+  happy_hour:
+    name: Blarney Stone
+    deal: $1 off all well and beers, $2.99 food menu
+    days: ! 'Daily 4-7 pm '
+    start_time: ! 'Daily 4-7 pm '
+    end_time: ! 'Daily 4-7 pm '
+Cafe Flora:
+  happy_hour:
+    name: Cafe Flora
+    deal: $6 wine and cocktail specials, $3 beer, $1 off wells, and $3-$6 food specials
+    days: ! 'Mon-Fri 3-6 pm '
+    start_time: ! 'Mon-Fri 3-6 pm '
+    end_time: ! 'Mon-Fri 3-6 pm '
+---
+Cafe Venus/Mars Bar:
+  happy_hour:
+    name: Cafe Venus/Mars Bar
+    deal: $3 wells, $1 off taps, $5.45 food menu
+    days: ! 'Mon-Sat 4-7 pm '
+    start_time: ! 'Mon-Sat 4-7 pm '
+    end_time: ! 'Mon-Sat 4-7 pm '
+Canterbury Ale and Eats:
+  happy_hour:
+    name: Canterbury Ale and Eats
+    deal: $4.50 wells, $.50 off drafts and call liquor, and $2-$5 food specials
+    days: ! 'Daily 3-6 pm '
+    start_time: ! 'Daily 3-6 pm '
+    end_time: ! 'Daily 3-6 pm '
+Central Cinema:
+  happy_hour:
+    name: Central Cinema
+    deal: Cartoon Happy Hour! Free cartoons. Food &amp; Drink specials
+    days: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+      food menu); Thu 5:30-7 pm '
+    start_time: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials,
+      special food menu); Thu 5:30-7 pm '
+    end_time: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+      food menu); Thu 5:30-7 pm '
+Century Ballroom:
+  happy_hour:
+    name: Century Ballroom
+    deal: n/a
+    days: n/a
+    start_time: n/a
+    end_time: n/a
+Cha Cha Lounge:
+  happy_hour:
+    name: Cha Cha Lounge
+    deal: $3.25 wells, beer specials, $4.25 margaritas
+    days: ! 'Sat 4-8 pm; Mon, Sun 4 pm-2 am '
+    start_time: ! 'Sat 4-8 pm; Mon, Sun 4 pm-2 am '
+    end_time: ! 'Sat 4-8 pm; Mon, Sun 4 pm-2 am '
+Chino's:
+  happy_hour:
+    name: Chino's
+    deal: $1 off drafts and wells, $5 select wine, $6 house sake and cocktails, $2
+      tacos, and $.75 taquitos
+    days: ! 'Daily 4-7 pm '
+    start_time: ! 'Daily 4-7 pm '
+    end_time: ! 'Daily 4-7 pm '
+Chungee's Drink 'n Eat:
+  happy_hour:
+    name: Chungee's Drink 'n Eat
+    deal: $1 off wells and drafts
+    days: ! 'Daily 4-7 pm '
+    start_time: ! 'Daily 4-7 pm '
+    end_time: ! 'Daily 4-7 pm '
+Cicchetti:
+  happy_hour:
+    name: Cicchetti
+    deal: $1-$6 food. $6 special cocktails, $5 prosecco, house white and house red,  $2
+      off draft beer [almost all $3], $5 premium wells
+    days: ! 'Tue-Fri 5-6:30 pm '
+    start_time: ! 'Tue-Fri 5-6:30 pm '
+    end_time: ! 'Tue-Fri 5-6:30 pm '
+Contour:
+  happy_hour:
+    name: Contour
+    deal: $3 Pilsner Urquell, $4.50 Stella, $3.50 Fat Tire, $3.75 wells, food specials
+    days: ! 'Mon-Thu 3-8 pm; Fri 3-9 pm; Sat-Sun 2-8 pm '
+    start_time: ! 'Mon-Thu 3-8 pm; Fri 3-9 pm; Sat-Sun 2-8 pm '
+    end_time: ! 'Mon-Thu 3-8 pm; Fri 3-9 pm; Sat-Sun 2-8 pm '
+Crossroads Bar & Grill:
+  happy_hour:
+    name: Crossroads Bar & Grill
+    deal: 3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+      $2-$5 food menu
+    days: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light, $5
+      cocktails, and $2-$5 food menu), 9 pm-2 am '
+    start_time: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light,
+      $5 cocktails, and $2-$5 food menu), 9 pm-2 am '
+    end_time: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light,
+      $5 cocktails, and $2-$5 food menu), 9 pm-2 am '
+Cyclops:
+  happy_hour:
+    name: Cyclops
+    deal: $1 off drafts and wine, $2 off wells and appetizers
+    days: ! 'Mon-Fri 3-6 pm '
+    start_time: ! 'Mon-Fri 3-6 pm '
+    end_time: ! 'Mon-Fri 3-6 pm '
+Deluxe Bar & Grill:
+  happy_hour:
+    name: Deluxe Bar & Grill
+    deal: $6 cocktails and Bloody Mary pints, $2.75-$4.75 appetizers, $3.95 wine
+    days: ! 'Daily 3-6 pm, 10 pm-1 am '
+    start_time: ! 'Daily 3-6 pm, 10 pm-1 am '
+    end_time: ! 'Daily 3-6 pm, 10 pm-1 am '
+Dragonfish Asian Cafe:
+  happy_hour:
+    name: Dragonfish Asian Cafe
+    deal: $2.95 sake, drafts, and cocktails, and $1.95 sushi specials
+    days: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6 pm,
+      9 pm-1 am '
+    start_time: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun
+      3-6 pm, 9 pm-1 am '
+    end_time: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6
+      pm, 9 pm-1 am '
+Duck Island Ale House:
+  happy_hour:
+    name: Duck Island Ale House
+    deal: $3 wells, $1.50 PBRs, and half off appetizers
+    days: ! 'Daily 3-7 pm '
+    start_time: ! 'Daily 3-7 pm '
+    end_time: ! 'Daily 3-7 pm '
+Eastlake Bar and Grill:
+  happy_hour:
+    name: Eastlake Bar and Grill
+    deal: $3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+      $2-$5 food menu
+    days: ! 'Daily 3-6 pm, 9 pm-midnight '
+    start_time: ! 'Daily 3-6 pm, 9 pm-midnight '
+    end_time: ! 'Daily 3-6 pm, 9 pm-midnight '

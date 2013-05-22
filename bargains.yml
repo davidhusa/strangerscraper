@@ -1,0 +1,581 @@
+5 Point Cafe_b:
+  deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: 5 Point Cafe_hh
+  record_number: 
+5 Point Cafe_b:
+  deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: 5 Point Cafe_hh2
+  record_number: 
+5 Spot_b:
+  deal: $3 drink specials and $4-$5 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: 5 Spot_hh
+  record_number: 
+9 Lb Hammer_b:
+  deal: $1 off draft beer
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: 9 Lb Hammer_hh
+  record_number: 
+Annapurna Cafe_b:
+  deal: $1 off beer and wine by the glass, $2 off cocktails, and $3.99 appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Annapurna Cafe_hh
+  record_number: 
+ART Restaurant and Lounge_b:
+  deal: $6 food menu, $7 seasonal cocktails, and $6-$8 wine specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: ART Restaurant and Lounge_hh
+  record_number: 
+ART Restaurant and Lounge_b2:
+  deal: $7 all-you-can-eat antipasto and cheese, $6-$8 wines
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: ART Restaurant and Lounge_hh2
+  record_number: 
+Athenian Inn_b:
+  deal: $4 beer, $3.25 wells, $1.50 oysters
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Athenian Inn_hh
+  record_number: 
+Ba Bar_b:
+  deal: $1 off select drafts and wine, $6 specialty drinks, $4-$9 food menu, daily
+    food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Ba Bar_hh
+  record_number: 
+Ballard Loft_b:
+  deal: $1 drafts and beer, $4 wells and house wine, $6 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Ballard Loft_hh
+  record_number: 
+The Bar at Pan Pacific Hotel_b:
+  deal: $2 off wine by the glass, $4 draft beer, $6 wells, and $4-$8 small plates
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Bar at Pan Pacific Hotel_hh
+  record_number: 
+Barça_b:
+  deal: $4 wells, $1 off drafts
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Barça_hh
+  record_number: 
+Belltown Pizza_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Belltown Pizza_hh
+  record_number: 
+Beth's Cafe_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Beth's Cafe_hh
+  record_number: 
+Big Mario's New York Style Pizza_b:
+  deal: $1 beer
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Big Mario's New York Style Pizza_hh
+  record_number: 
+Big Time Brewery & Alehouse_b:
+  deal: $3 food menu, $1 off pints
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Big Time Brewery & Alehouse_hh
+  record_number: 
+Black Coffee Co-op_b:
+  deal: $1 Teas $3 Microbrews
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Black Coffee Co-op_hh
+  record_number: 
+Can Can_b:
+  deal: Half off select absinthe and cocktails, $3 wells, and $5 wine
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Can Can_hh
+  record_number: 
+Captain Blacks_b:
+  deal: $3.50 drafts, $13 pitchers, $4 wells, $2 Rainier, $4-$6 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Captain Blacks_hh
+  record_number: 
+Central Cinema_b:
+  deal: Cartoon Happy Hour! Free cartoons. Food &amp; Drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Central Cinema_hh
+  record_number: 
+Century Ballroom_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Century Ballroom_hh
+  record_number: 
+Chungee's Drink 'n Eat_b:
+  deal: $1 off wells and drafts
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Chungee's Drink 'n Eat_hh
+  record_number: 
+Cicchetti_b:
+  deal: $1-$6 food. $6 special cocktails, $5 prosecco, house white and house red,  $2
+    off draft beer [almost all $3], $5 premium wells
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Cicchetti_hh
+  record_number: 
+Clever Dunne's Irish House_b:
+  deal: $2 pints, $3 wells, and food specials under $6
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Clever Dunne's Irish House_hh
+  record_number: 
+Cooper's Alehouse_b:
+  deal: $1 off all drinks, $5 and under food menu. [Food available starting at 4 pm.]
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Cooper's Alehouse_hh
+  record_number: 
+Crossroads Bar & Grill_b:
+  deal: 3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+    $2-$5 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Crossroads Bar & Grill_hh
+  record_number: 
+Cyclops_b:
+  deal: $1 of wells, $2 off appetizers and wells
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Cyclops_hh
+  record_number: 
+Dilettante Cafe_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Dilettante Cafe_hh
+  record_number: 
+Dilettante Mocha Cafe_b:
+  deal: $6.50 chocolate martinis, $3 draft beers, $4 wines, $3.50 wells, $5.50 food
+    menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Dilettante Mocha Cafe_hh
+  record_number: 
+Dragonfish Asian Cafe_b:
+  deal: $2.95 sake, drafts, and cocktails, and $1.95 sushi specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Dragonfish Asian Cafe_hh
+  record_number: 
+Dubliner_b:
+  deal: $2PBR $4 Domestic Drafts $5 Imports. Free pool
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Dubliner_hh
+  record_number: 
+Duck Island Ale House_b:
+  deal: $2 PBRs, $3.50 wells, $1 off drafts. Half off Appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Duck Island Ale House_hh
+  record_number: 
+Eastlake Bar and Grill_b:
+  deal: $3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+    $2-$5 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Eastlake Bar and Grill_hh
+  record_number: 
+El Chupacabra_b:
+  deal: $1 off wells and drafts, food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: El Chupacabra_hh
+  record_number: 
+Elephant & Castle_b:
+  deal: $1 off wine by the glass, wells, and drafts, half-price bottles of wine, and
+    $5 appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Elephant & Castle_hh
+  record_number: 
+Endolyne Joe's_b:
+  deal: Food and drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Endolyne Joe's_hh
+  record_number: 
+F.X. McRory's Steak, Chop & Oyster House_b:
+  deal: $2.50 Miller Hi-Life Pints, $4.50 wells, $4.50 drafts, $4.50 house wine, $4.50
+    select cocktails, $3.50-$4.95 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: F.X. McRory's Steak, Chop & Oyster House_hh
+  record_number: 
+Floyd's_b:
+  deal: $3 wells, $3 domestics bottles, $3.75 micros, and $3 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Floyd's_hh
+  record_number: 
+George & Dragon Pub_b:
+  deal: $1 off pints and wells. Food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: George & Dragon Pub_hh
+  record_number: 
+Georgetown Liquor Company_b:
+  deal: $3 wells, $1 off tap beer, and $8 specialty cocktails. $5.45 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Georgetown Liquor Company_hh
+  record_number: 
+Greenlake Bar & Grill_b:
+  deal: $3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+    $2-$5 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Greenlake Bar & Grill_hh
+  record_number: 
+Grim's_b:
+  deal: $2 Rainier, $4 wells, $3.50 drafts, $5 Crostinis
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Grim's_hh
+  record_number: 
+Hi-Life_b:
+  deal: $3 drafts, wells, and wine, and $4-$5 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Hi-Life_hh
+  record_number: 
+Hopvine Pub_b:
+  deal: Food and drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Hopvine Pub_hh
+  record_number: 
+Il Bistro_b:
+  deal: Over 20 food specials starting at $2.95
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Il Bistro_hh
+  record_number: 
+Jolly Roger Taproom_b:
+  deal: $2 12 oz. schooners, $3 16 oz. TRUE pints, $3.50 20 oz. mugs, $10 pitchers,
+    and $3-$4.50 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Jolly Roger Taproom_hh
+  record_number: 
+Lake Forest Bar & Grill_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Lake Forest Bar & Grill_hh
+  record_number: 
+Lecosho_b:
+  deal: $3 tap beers, $4 wines, $5 select cocktails. Food starting at $5
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Lecosho_hh
+  record_number: 
+The Lookout_b:
+  deal: $3.50 drafts, $4 house wines, $4 wells, $5 select appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Lookout_hh
+  record_number: 
+Lost Lake Cafe & Lounge_b:
+  deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Lost Lake Cafe & Lounge_hh
+  record_number: 
+The Lost Pelican_b:
+  deal: $4 drafts, $4.50 wells and house wine, and $5 happy hour food
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Lost Pelican_hh
+  record_number: 
+Lunchbox Laboratory_b:
+  deal: $2 PBR, $3.25 wells, $4 cocktails
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Lunchbox Laboratory_hh
+  record_number: 
+The Market Arms_b:
+  deal: $1 off drafts and wells, $3 bottles, and $4 appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Market Arms_hh
+  record_number: 
+Mecca_b:
+  deal: $1 off drafts, $1 off wells, $1.50 miller drafts. Daily drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Mecca_hh
+  record_number: 
+Monkey Pub_b:
+  deal: Daily rotating drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Monkey Pub_hh
+  record_number: 
+Monsoon_b:
+  deal: $5-$7 food menu, $4 beer, $5 wine, $6 cocktails
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Monsoon_hh
+  record_number: 
+Museum of History and Industry_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Museum of History and Industry_hh
+  record_number: 
+The Nabob_b:
+  deal: $3 drafts, wells, and wine, $4 food menu
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Nabob_hh
+  record_number: 
+Noc Noc_b:
+  deal: $2 Pabst, High Life, and Bud Light, $3 wells, $3 food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Noc Noc_hh
+  record_number: 
+Norm's Eatery & Alehouse_b:
+  deal: $3 pints, $5 appetizers, and $3 PBR 40s on Wednesdays
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Norm's Eatery & Alehouse_hh
+  record_number: 
+Ohana Restaurant & Sushi Bar_b:
+  deal: $3-$6 drink specials and $3.99 pupus and sushi
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Ohana Restaurant & Sushi Bar_hh
+  record_number: 
+Old Pequliar_b:
+  deal: Food and drink specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Old Pequliar_hh
+  record_number: 
+Pagliacci Pizza_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pagliacci Pizza_hh
+  record_number: 
+Pan Pacific Hotel_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pan Pacific Hotel_hh
+  record_number: 
+Paragon_b:
+  deal: $5 martinis and margaritas, $7 appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Paragon_hh
+  record_number: 
+The Pine Box_b:
+  deal: $1 off all food and drinks
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: The Pine Box_hh
+  record_number: 
+Pintxo_b:
+  deal: $3 drafts and Estrella Lager, $6 house wine, $4.50 sangria, $4.50 wells, and
+    food specials
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pintxo_hh
+  record_number: 
+Pizzeria 22_b:
+  deal: $1 beer [until 5 pm], $5 pizza, $5 select apps, $3 desserts, and $1 off all
+    bar beverages
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pizzeria 22_hh
+  record_number: 
+Pony_b:
+  deal: $3 wells, $1 $5 Busch pitchers, $1 off pints
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pony_hh
+  record_number: 
+Pyramid Alehouse_b:
+  deal: n/a
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pyramid Alehouse_hh
+  record_number: 
+Pyramid Brewery_b:
+  deal: $3 pints, $5 appetizers. Not valid during game days
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Pyramid Brewery_hh
+  record_number: 
+Rob Roy_b:
+  deal: Rotating menu of $6 seasonal craft cocktails, $5 wine glass pour, $1 off all
+    beer. "Bag of nuts for a Buck", Free goldfish crackers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Rob Roy_hh
+  record_number: 
+Rocco's_b:
+  deal: $1 off micros, $4 wells, $2 off cocktails
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Rocco's_hh
+  record_number: 
+Rock Box_b:
+  deal: $4/hr. karaoke, $5 sake sangria, $3 wells, $5 double wells, $3.50 drafts and
+    house sake
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Rock Box_hh
+  record_number: 
+Row House Cafe_b:
+  deal: $1 off beer, wine, and cocktails, $2 off appetizers
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Row House Cafe_hh
+  record_number: 
+Saint John's Bar and Eatery_b:
+  deal: $1 off all beer, $2 Rainier, $3 sangria, $4 wells and house wine
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Saint John's Bar and Eatery_hh
+  record_number: 
+Serafina_b:
+  deal: $6 appetizers, $7 specialty cocktails, $6 house red or white wine, $3 beers,
+    $5 premium wells
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Serafina_hh
+  record_number: 
+Solo_b:
+  deal: $2 Rainier, $3 wells, $1 off all beer and wine
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Solo_hh
+  record_number: 
+Speckled & Drake_b:
+  deal: $3 wells, $1 off drafts, $1 off call drinks
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Speckled & Drake_hh
+  record_number: 
+Stellar Pizza_b:
+  deal: $3.50 micros, $4 premium wells
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Stellar Pizza_hh
+  record_number: 
+Sun Liquor Lounge_b:
+  deal: $2 off menu cocktails, $4 well high balls
+  version: 1
+  deal_type: beer
+  discount_or_price: 0
+  happy_hour: Sun Liquor Lounge_hh
+  record_number: 

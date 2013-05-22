@@ -1,0 +1,24 @@
+5 Point Cafe_hh:
+  name: Happy Hour
+  days: MTWtF
+  start_time: 6am
+  end_time: 9am
+  version: 1
+  location: 5 Point Cafe
+  record_number: 
+5 Point Cafe_hh2:
+  name: Happy Hour
+  days: MTWtF
+  start_time: 4pm
+  end_time: 6pm
+  version: 1
+  location: 5 Point Cafe
+  record_number: 
+Big Mario's New York Style Pizza_hh:
+  name: Happy Hour
+  days: MTWtFSs
+  start_time: 3pm
+  end_time: 4pm
+  version: 1
+  location: Big Mario's New York Style Pizza
+  record_number: 

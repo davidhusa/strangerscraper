@@ -1,0 +1,63 @@
+5 Point Cafe_b_a:
+  deal: $2 domestics
+  version: 1
+  deal_type: beer
+  discount_or_price: 2
+  happy_hour: 5 Point Cafe_hh
+  record_number:
+5 Point Cafe_b2_a:
+  deal: $2 domestics
+  version: 1
+  deal_type: beer
+  discount_or_price: 2
+  happy_hour: 5 Point Cafe_hh2
+  record_number:
+5 Point Cafe_b_a:
+  deal: $3 micros
+  version: 1
+  deal_type: beer
+  discount_or_price: 3
+  happy_hour: 5 Point Cafe_hh
+  record_number:
+5 Point Cafe_b2_a:
+  deal: $3 micros
+  version: 1
+  deal_type: beer
+  discount_or_price: 3
+  happy_hour: 5 Point Cafe_hh2
+  record_number:
+5 Point Cafe_b_b:
+  deal: $3.50 wells
+  version: 1
+  deal_type: liquor
+  discount_or_price: 3.50
+  happy_hour: 5 Point Cafe_hh
+  record_number:
+5 Point Cafe_b2_b:
+  deal: $3.50 wells
+  version: 1
+  deal_type: liquor
+  discount_or_price: 3.50
+  happy_hour: 5 Point Cafe_hh2
+  record_number:
+5 Point Cafe_b_c:
+  deal: Food under $4
+  version: 1
+  deal_type: food
+  discount_or_price: 4
+  happy_hour: 5 Point Cafe_hh
+  record_number:
+5 Point Cafe_b2:
+  deal: Food under $4
+  version: 1
+  deal_type: food
+  discount_or_price: 4
+  happy_hour: 5 Point Cafe_hh2
+  record_number: 
+Big Mario's New York Style Pizza_b:
+  deal: $1 beer
+  version: 1
+  deal_type: beer
+  discount_or_price: 1
+  happy_hour: Big Mario's New York Style Pizza_hh
+  record_number: 

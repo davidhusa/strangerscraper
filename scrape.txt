@@ -1,0 +1,406 @@
+---
+5 Point Cafe:
+  location:
+    name: 5 Point Cafe
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 6-9 am, 4-6 pm '
+      bargains:
+        deal: $2 domestics, $3 micros, $3.50 wells, and food under $4
+5 Spot:
+  location:
+    name: 5 Spot
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-6 pm, 10 pm-midnight '
+      bargains:
+        deal: $3 drink specials and $4-$5 food specials
+9 Lb Hammer:
+  location:
+    name: 9 Lb Hammer
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 11 am-7 pm '
+      bargains:
+        deal: $1 off draft beer
+Annapurna Cafe:
+  location:
+    name: Annapurna Cafe
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm '
+      bargains:
+        deal: $1 off beer and wine by the glass, $2 off cocktails, and $3.99 appetizers
+Athenian Inn:
+  location:
+    name: Athenian Inn
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Sat 4-7:30 pm '
+      bargains:
+        deal: $4 beer, $3.25 wells, $1.25 oysters
+Auto Battery:
+  location:
+    name: Auto Battery
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm; Mon-Thu, Sun 11 pm-1 am '
+      bargains:
+        deal: $2 PBR, $3.50 drafts and wells
+Ba Bar:
+  location:
+    name: Ba Bar
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm '
+      bargains:
+        deal: $1 off all drafts and wine, $6 specialty drinks, $4-$8 food menu, daily
+          food specials, $5 drink specials all day on Sunday/Monday
+Bainbridge Organic Distillers:
+  location:
+    name: Bainbridge Organic Distillers
+    address: unknown
+    version: 1
+    happy_hours:
+      days: n/a
+      bargains:
+        deal: n/a
+Ballroom:
+  location:
+    name: Ballroom
+    address: unknown
+    version: 1
+    happy_hours:
+      days: n/a
+      bargains:
+        deal: n/a
+Barça:
+  location:
+    name: Barça
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 5-7 pm '
+      bargains:
+        deal: $4 wells, $1 off drafts
+Big Mario's New York Style Pizza:
+  location:
+    name: Big Mario's New York Style Pizza
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-4 pm '
+      bargains:
+        deal: $1 beer
+Big Time Brewery & Alehouse:
+  location:
+    name: Big Time Brewery & Alehouse
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Thu, Sat-Sun 2-5 pm '
+      bargains:
+        deal: $3 food menu, $1 off pints
+Bimbo's Cantina:
+  location:
+    name: Bimbo's Cantina
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Sat 4-8 pm; Mon, Sun noon-2 am '
+      bargains:
+        deal: $3.25 wells, $4.25 margaritas, $5 pitchers
+Blarney Stone:
+  location:
+    name: Blarney Stone
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-7 pm '
+      bargains:
+        deal: $1 off all well and beers, $2.99 food menu
+Cafe Flora:
+  location:
+    name: Cafe Flora
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-6 pm '
+      bargains:
+        deal: $6 wine and cocktail specials, $3 beer, $1 off wells, and $3-$6 food
+          specials
+---
+Cafe Venus/Mars Bar:
+  location:
+    name: Cafe Venus/Mars Bar
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Sat 4-7 pm '
+      bargains:
+        deal: $3 wells, $1 off taps, $5.45 food menu
+Canterbury Ale and Eats:
+  location:
+    name: Canterbury Ale and Eats
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm '
+      bargains:
+        deal: $4.50 wells, $.50 off drafts and call liquor, and $2-$5 food specials
+Central Cinema:
+  location:
+    name: Central Cinema
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 5:30-6:30 pm ($2 off cocktails, beer &amp; wine specials, special
+        food menu); Thu 5:30-7 pm '
+      bargains:
+        deal: Cartoon Happy Hour! Free cartoons. Food &amp; Drink specials
+Century Ballroom:
+  location:
+    name: Century Ballroom
+    address: unknown
+    version: 1
+    happy_hours:
+      days: n/a
+      bargains:
+        deal: n/a
+Cha Cha Lounge:
+  location:
+    name: Cha Cha Lounge
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Sat 4-8 pm; Mon, Sun 4 pm-2 am '
+      bargains:
+        deal: $3.25 wells, beer specials, $4.25 margaritas
+Chino's:
+  location:
+    name: Chino's
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-7 pm '
+      bargains:
+        deal: $1 off drafts and wells, $5 select wine, $6 house sake and cocktails,
+          $2 tacos, and $.75 taquitos
+Chungee's Drink 'n Eat:
+  location:
+    name: Chungee's Drink 'n Eat
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-7 pm '
+      bargains:
+        deal: $1 off wells and drafts
+Cicchetti:
+  location:
+    name: Cicchetti
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Tue-Fri 5-6:30 pm '
+      bargains:
+        deal: $1-$6 food. $6 special cocktails, $5 prosecco, house white and house
+          red,  $2 off draft beer [almost all $3], $5 premium wells
+Contour:
+  location:
+    name: Contour
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Thu 3-8 pm; Fri 3-9 pm; Sat-Sun 2-8 pm '
+      bargains:
+        deal: $3 Pilsner Urquell, $4.50 Stella, $3.50 Fat Tire, $3.75 wells, food
+          specials
+Crossroads Bar & Grill:
+  location:
+    name: Crossroads Bar & Grill
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm ($3.99 wells, $1.99 PBR tallboys, $2.99 Coors Light, $5
+        cocktails, and $2-$5 food menu), 9 pm-2 am '
+      bargains:
+        deal: 3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+          $2-$5 food menu
+Cyclops:
+  location:
+    name: Cyclops
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-6 pm '
+      bargains:
+        deal: $1 off drafts and wine, $2 off wells and appetizers
+Deluxe Bar & Grill:
+  location:
+    name: Deluxe Bar & Grill
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm, 10 pm-1 am '
+      bargains:
+        deal: $6 cocktails and Bloody Mary pints, $2.75-$4.75 appetizers, $3.95 wine
+Dragonfish Asian Cafe:
+  location:
+    name: Dragonfish Asian Cafe
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon 3 pm-1 am (Specials on small plates and cocktails); Tue-Sun 3-6
+        pm, 9 pm-1 am '
+      bargains:
+        deal: $2.95 sake, drafts, and cocktails, and $1.95 sushi specials
+Duck Island Ale House:
+  location:
+    name: Duck Island Ale House
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm '
+      bargains:
+        deal: $3 wells, $1.50 PBRs, and half off appetizers
+Eastlake Bar and Grill:
+  location:
+    name: Eastlake Bar and Grill
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm, 9 pm-midnight '
+      bargains:
+        deal: $3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+          $2-$5 food menu
+---
+El Chupacabra:
+  location:
+    name: El Chupacabra
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-6 pm, 10 pm-midnight '
+      bargains:
+        deal: $1 off wells and drafts, food specials
+Endolyne Joe's:
+  location:
+    name: Endolyne Joe's
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Tue 3-10 pm; Mon, Wed-Sun 3-6 pm, 9-10 pm '
+      bargains:
+        deal: Food and drink specials
+F.X. McRory's Steak, Chop & Oyster House:
+  location:
+    name: F.X. McRory's Steak, Chop & Oyster House
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-5:45 pm '
+      bargains:
+        deal: $2.50 Miller Hi-Life Pints, $4.50 wells, $4.50 drafts, $4.50 house wine,
+          $4.50 select cocktails, $3.50-$4.95 food specials
+Floyd's:
+  location:
+    name: Floyd's
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-7 pm '
+      bargains:
+        deal: $3 wells, $3 domestics bottles, $3.75 micros, and $3 food specials
+Fonda La Catrina:
+  location:
+    name: Fonda La Catrina
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm '
+      bargains:
+        deal: $1 off drafts, $1 off wells, $5 margaritas, $1 off most appetizers,
+          $2 tostadas, $3 tacos dorados, $5 tamales
+Fremont Brewing Company:
+  location:
+    name: Fremont Brewing Company
+    address: unknown
+    version: 1
+    happy_hours:
+      days: n/a
+      bargains:
+        deal: n/a
+George & Dragon Pub:
+  location:
+    name: George & Dragon Pub
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 3-6 pm ($1 off pints and wells. Food specials); Sun 8 pm-2
+        am '
+      bargains:
+        deal: $1 off pints and wells. Food specials
+Georgetown Liquor Company:
+  location:
+    name: Georgetown Liquor Company
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Mon-Fri 4-7 pm '
+      bargains:
+        deal: $3 wells, $1 off tap beer, and $8 specialty cocktails. $5.45 food menu
+The Gerald:
+  location:
+    name: The Gerald
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-6 pm ($4 Apps, $4 Draftsm $5 House Wine, $7 Daily Cocktail
+        Special), 10:30 pm-2 am '
+      bargains:
+        deal: $4 Apps, $4 Drafts, $5 House Wine, $7 Daily Cocktail Special
+Green Leaf:
+  location:
+    name: Green Leaf
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 4-6 pm, 11 pm-2 am '
+      bargains:
+        deal: $1 off drafts,  $4 house wine by the glass, $5-$6 specialty cocktails,
+          $5 food specials
+Greenlake Bar & Grill:
+  location:
+    name: Greenlake Bar & Grill
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 9 pm-midnight, 3-6 pm '
+      bargains:
+        deal: $3.99 wells and wine, $1.99 PBR tallboys, $2.99 Coors Light, $5 cocktails,
+          $2-$5 food menu
+Grim's:
+  location:
+    name: Grim's
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Daily 3-6 pm '
+      bargains:
+        deal: $2 Rainier, $3.50 wells, $3.50 drafts, $5 Crostinis
+Hi-Life:
+  location:
+    name: Hi-Life
+    address: unknown
+    version: 1
+    happy_hours:
+      days: ! 'Tue 5-10 pm; Mon, Wed-Sun 5-6:30 pm, 10-11 pm '
+      bargains:
+        deal: $3 drafts, wells, and wine, and $4-$5 food specials
